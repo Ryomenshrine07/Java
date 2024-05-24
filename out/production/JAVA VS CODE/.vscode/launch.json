@@ -1,0 +1,465 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Remove_duplicAtes",
+      "request": "launch",
+      "mainClass": "Remove_duplicAtes",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "first_to_occur_k",
+      "request": "launch",
+      "mainClass": "first_to_occur_k",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q6",
+      "request": "launch",
+      "mainClass": "codechef.q6",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q4",
+      "request": "launch",
+      "mainClass": "codechef.q4",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q25",
+      "request": "launch",
+      "mainClass": "Priyanka.q25",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q24",
+      "request": "launch",
+      "mainClass": "q24",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q24",
+      "request": "launch",
+      "mainClass": "Priyanka.q24",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q23",
+      "request": "launch",
+      "mainClass": "Priyanka.q23",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "pattern8",
+      "request": "launch",
+      "mainClass": "pattern8",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "pattern11",
+      "request": "launch",
+      "mainClass": "pattern11",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "pattern10",
+      "request": "launch",
+      "mainClass": "pattern10",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "pattern9",
+      "request": "launch",
+      "mainClass": "Patterns.pattern9",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "tri",
+      "request": "launch",
+      "mainClass": "Patterns.tri",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "pattern8",
+      "request": "launch",
+      "mainClass": "Patterns.pattern8",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "Codechef",
+      "request": "launch",
+      "mainClass": "Codechef",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "Codechef",
+      "request": "launch",
+      "mainClass": "codechef.Codechef",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "codechef.q2",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "string",
+      "request": "launch",
+      "mainClass": "codechef.string",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q22",
+      "request": "launch",
+      "mainClass": "Priyanka.q22",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q21",
+      "request": "launch",
+      "mainClass": "Priyanka.q21",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q20",
+      "request": "launch",
+      "mainClass": "Priyanka.q20",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "array_add",
+      "request": "launch",
+      "mainClass": "array_add",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "compi",
+      "request": "launch",
+      "mainClass": "compi",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q19",
+      "request": "launch",
+      "mainClass": "Priyanka.q19",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "array_marks",
+      "request": "launch",
+      "mainClass": "array_marks",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "trypat",
+      "request": "launch",
+      "mainClass": "trypat",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q6",
+      "request": "launch",
+      "mainClass": "Hacker_code.q6",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q5",
+      "request": "launch",
+      "mainClass": "Hacker_code.q5",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q4",
+      "request": "launch",
+      "mainClass": "Hacker_code.q4",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "Hacker_code.q3",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "Hacker_code.q2",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "this_print",
+      "request": "launch",
+      "mainClass": "Output_checking.this_print",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "this_refrence",
+      "request": "launch",
+      "mainClass": "this_refrence",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q18",
+      "request": "launch",
+      "mainClass": "Priyanka.q18",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q18",
+      "request": "launch",
+      "mainClass": "q18",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q17",
+      "request": "launch",
+      "mainClass": "Priyanka.q17",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q16",
+      "request": "launch",
+      "mainClass": "Priyanka.q16",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q15",
+      "request": "launch",
+      "mainClass": "Priyanka.q15",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q14",
+      "request": "launch",
+      "mainClass": "Priyanka.q14",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q13",
+      "request": "launch",
+      "mainClass": "Priyanka.q13",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q12",
+      "request": "launch",
+      "mainClass": "Priyanka.q12",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q11",
+      "request": "launch",
+      "mainClass": "Priyanka.q11",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q10",
+      "request": "launch",
+      "mainClass": "Priyanka.q10",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q9",
+      "request": "launch",
+      "mainClass": "Priyanka.q9",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q8",
+      "request": "launch",
+      "mainClass": "Priyanka.q8",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q7",
+      "request": "launch",
+      "mainClass": "Priyanka.q7",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q6",
+      "request": "launch",
+      "mainClass": "Priyanka.q6",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q5",
+      "request": "launch",
+      "mainClass": "Priyanka.q5",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q4",
+      "request": "launch",
+      "mainClass": "Priyanka.q4",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "Priyanka.q3",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "Priyanka.q2",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "Hacker_code.q1",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "pri_pattern0p1",
+      "request": "launch",
+      "mainClass": "pri_pattern0p1",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "Pattern7",
+      "request": "launch",
+      "mainClass": "Patterns.Pattern7",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "Pattern6",
+      "request": "launch",
+      "mainClass": "Patterns.Pattern6",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "pri_pattern",
+      "request": "launch",
+      "mainClass": "pri_pattern",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "Pattern5",
+      "request": "launch",
+      "mainClass": "Patterns.Pattern5",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "Pattern4",
+      "request": "launch",
+      "mainClass": "Patterns.Pattern4",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "Pattern3",
+      "request": "launch",
+      "mainClass": "Patterns.Pattern3",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "Pattern2",
+      "request": "launch",
+      "mainClass": "Patterns.Pattern2",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "okpp",
+      "request": "launch",
+      "mainClass": "okpp",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "Patterns",
+      "request": "launch",
+      "mainClass": "Patterns.Patterns",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "type": "java",
+      "name": "area_and_peri",
+      "request": "launch",
+      "mainClass": "Area_and_peri.area_and_peri",
+      "projectName": "JAVA VS CODE_3ceb38ac"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "f:/JAVA VS CODE",
+      "program": "f:/JAVA VS CODE/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

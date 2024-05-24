@@ -1,0 +1,18 @@
+# Streams : -
+Ans) Streams are the sequence of Bytes which travel from source to destination over a communication path.
+basically ek vo sequence of bytes jo ek source se destination tak travel karte hai kisi ek communiacation path par. Streams are linked to physical devices by java I/O system.
+
+[*] Think of stream as a moving river from a source to destination in which information is flowing in form of tiny particles (Bytes). Suppose there in a person at the destination point and you are at the source point and you want to share a information to that person at the end, then you can just throw or give information to the river and the river will carry it's info to the person at destination point.
+
+[*] So user only have to focus on what they wish to read or write.
+
+# In Java I/O operations are performed by using Streams which makes I/O operations much more reliable.
+
+# Streams are implemented using java.io package in Java
+
+# This abstraction of I/O operations using streams offers one importent benefit :- No matter from where we wish to write or read stream behave similarly
+
+[*] Reading involves transfer of data from source into a data structure , like a array of bytes
+
+[*] Writing involves transfer of data from Data source into stream
+
